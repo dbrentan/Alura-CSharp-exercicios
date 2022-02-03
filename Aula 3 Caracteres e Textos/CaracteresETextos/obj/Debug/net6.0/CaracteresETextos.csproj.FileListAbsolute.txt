@@ -1,0 +1,15 @@
+C:\AluraDaniel01\Aula 3 Caracteres e Textos\CaracteresETextos\bin\Debug\net6.0\CaracteresETextos.exe
+C:\AluraDaniel01\Aula 3 Caracteres e Textos\CaracteresETextos\bin\Debug\net6.0\CaracteresETextos.deps.json
+C:\AluraDaniel01\Aula 3 Caracteres e Textos\CaracteresETextos\bin\Debug\net6.0\CaracteresETextos.runtimeconfig.json
+C:\AluraDaniel01\Aula 3 Caracteres e Textos\CaracteresETextos\bin\Debug\net6.0\CaracteresETextos.dll
+C:\AluraDaniel01\Aula 3 Caracteres e Textos\CaracteresETextos\bin\Debug\net6.0\ref\CaracteresETextos.dll
+C:\AluraDaniel01\Aula 3 Caracteres e Textos\CaracteresETextos\bin\Debug\net6.0\CaracteresETextos.pdb
+C:\AluraDaniel01\Aula 3 Caracteres e Textos\CaracteresETextos\obj\Debug\net6.0\CaracteresETextos.csproj.AssemblyReference.cache
+C:\AluraDaniel01\Aula 3 Caracteres e Textos\CaracteresETextos\obj\Debug\net6.0\CaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraDaniel01\Aula 3 Caracteres e Textos\CaracteresETextos\obj\Debug\net6.0\CaracteresETextos.AssemblyInfoInputs.cache
+C:\AluraDaniel01\Aula 3 Caracteres e Textos\CaracteresETextos\obj\Debug\net6.0\CaracteresETextos.AssemblyInfo.cs
+C:\AluraDaniel01\Aula 3 Caracteres e Textos\CaracteresETextos\obj\Debug\net6.0\CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\AluraDaniel01\Aula 3 Caracteres e Textos\CaracteresETextos\obj\Debug\net6.0\CaracteresETextos.dll
+C:\AluraDaniel01\Aula 3 Caracteres e Textos\CaracteresETextos\obj\Debug\net6.0\ref\CaracteresETextos.dll
+C:\AluraDaniel01\Aula 3 Caracteres e Textos\CaracteresETextos\obj\Debug\net6.0\CaracteresETextos.pdb
+C:\AluraDaniel01\Aula 3 Caracteres e Textos\CaracteresETextos\obj\Debug\net6.0\CaracteresETextos.genruntimeconfig.cache
