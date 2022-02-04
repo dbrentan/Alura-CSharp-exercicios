@@ -1,0 +1,15 @@
+C:\AluraDaniel01\Aprendendo CSharp\ExercicioIR\bin\Debug\net6.0\ExercicioIR.exe
+C:\AluraDaniel01\Aprendendo CSharp\ExercicioIR\bin\Debug\net6.0\ExercicioIR.deps.json
+C:\AluraDaniel01\Aprendendo CSharp\ExercicioIR\bin\Debug\net6.0\ExercicioIR.runtimeconfig.json
+C:\AluraDaniel01\Aprendendo CSharp\ExercicioIR\bin\Debug\net6.0\ExercicioIR.dll
+C:\AluraDaniel01\Aprendendo CSharp\ExercicioIR\bin\Debug\net6.0\ref\ExercicioIR.dll
+C:\AluraDaniel01\Aprendendo CSharp\ExercicioIR\bin\Debug\net6.0\ExercicioIR.pdb
+C:\AluraDaniel01\Aprendendo CSharp\ExercicioIR\obj\Debug\net6.0\ExercicioIR.csproj.AssemblyReference.cache
+C:\AluraDaniel01\Aprendendo CSharp\ExercicioIR\obj\Debug\net6.0\ExercicioIR.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraDaniel01\Aprendendo CSharp\ExercicioIR\obj\Debug\net6.0\ExercicioIR.AssemblyInfoInputs.cache
+C:\AluraDaniel01\Aprendendo CSharp\ExercicioIR\obj\Debug\net6.0\ExercicioIR.AssemblyInfo.cs
+C:\AluraDaniel01\Aprendendo CSharp\ExercicioIR\obj\Debug\net6.0\ExercicioIR.csproj.CoreCompileInputs.cache
+C:\AluraDaniel01\Aprendendo CSharp\ExercicioIR\obj\Debug\net6.0\ExercicioIR.dll
+C:\AluraDaniel01\Aprendendo CSharp\ExercicioIR\obj\Debug\net6.0\ref\ExercicioIR.dll
+C:\AluraDaniel01\Aprendendo CSharp\ExercicioIR\obj\Debug\net6.0\ExercicioIR.pdb
+C:\AluraDaniel01\Aprendendo CSharp\ExercicioIR\obj\Debug\net6.0\ExercicioIR.genruntimeconfig.cache
