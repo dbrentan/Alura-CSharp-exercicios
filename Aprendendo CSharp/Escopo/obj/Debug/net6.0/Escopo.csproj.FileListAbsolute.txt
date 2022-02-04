@@ -1,0 +1,15 @@
+C:\AluraDaniel01\Aprendendo CSharp\Escopo\bin\Debug\net6.0\Escopo.exe
+C:\AluraDaniel01\Aprendendo CSharp\Escopo\bin\Debug\net6.0\Escopo.deps.json
+C:\AluraDaniel01\Aprendendo CSharp\Escopo\bin\Debug\net6.0\Escopo.runtimeconfig.json
+C:\AluraDaniel01\Aprendendo CSharp\Escopo\bin\Debug\net6.0\Escopo.dll
+C:\AluraDaniel01\Aprendendo CSharp\Escopo\bin\Debug\net6.0\ref\Escopo.dll
+C:\AluraDaniel01\Aprendendo CSharp\Escopo\bin\Debug\net6.0\Escopo.pdb
+C:\AluraDaniel01\Aprendendo CSharp\Escopo\obj\Debug\net6.0\Escopo.csproj.AssemblyReference.cache
+C:\AluraDaniel01\Aprendendo CSharp\Escopo\obj\Debug\net6.0\Escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraDaniel01\Aprendendo CSharp\Escopo\obj\Debug\net6.0\Escopo.AssemblyInfoInputs.cache
+C:\AluraDaniel01\Aprendendo CSharp\Escopo\obj\Debug\net6.0\Escopo.AssemblyInfo.cs
+C:\AluraDaniel01\Aprendendo CSharp\Escopo\obj\Debug\net6.0\Escopo.csproj.CoreCompileInputs.cache
+C:\AluraDaniel01\Aprendendo CSharp\Escopo\obj\Debug\net6.0\Escopo.dll
+C:\AluraDaniel01\Aprendendo CSharp\Escopo\obj\Debug\net6.0\ref\Escopo.dll
+C:\AluraDaniel01\Aprendendo CSharp\Escopo\obj\Debug\net6.0\Escopo.pdb
+C:\AluraDaniel01\Aprendendo CSharp\Escopo\obj\Debug\net6.0\Escopo.genruntimeconfig.cache

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicionais", "Condicionai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondicionaisDois", "CondicionaisDois\CondicionaisDois.csproj", "{34DE2017-ECAF-4565-828B-DB981F8610F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escopo", "Escopo\Escopo.csproj", "{2A9D42D1-B720-452C-BF4C-D39EC65D4DA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{34DE2017-ECAF-4565-828B-DB981F8610F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34DE2017-ECAF-4565-828B-DB981F8610F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34DE2017-ECAF-4565-828B-DB981F8610F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9D42D1-B720-452C-BF4C-D39EC65D4DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9D42D1-B720-452C-BF4C-D39EC65D4DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9D42D1-B720-452C-BF4C-D39EC65D4DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9D42D1-B720-452C-BF4C-D39EC65D4DA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
