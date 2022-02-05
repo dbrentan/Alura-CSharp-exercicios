@@ -1,0 +1,15 @@
+C:\AluraDaniel01\Aprendendo CSharp\MultiploDeTres\bin\Debug\net6.0\MultiploDeTres.exe
+C:\AluraDaniel01\Aprendendo CSharp\MultiploDeTres\bin\Debug\net6.0\MultiploDeTres.deps.json
+C:\AluraDaniel01\Aprendendo CSharp\MultiploDeTres\bin\Debug\net6.0\MultiploDeTres.runtimeconfig.json
+C:\AluraDaniel01\Aprendendo CSharp\MultiploDeTres\bin\Debug\net6.0\MultiploDeTres.dll
+C:\AluraDaniel01\Aprendendo CSharp\MultiploDeTres\bin\Debug\net6.0\ref\MultiploDeTres.dll
+C:\AluraDaniel01\Aprendendo CSharp\MultiploDeTres\bin\Debug\net6.0\MultiploDeTres.pdb
+C:\AluraDaniel01\Aprendendo CSharp\MultiploDeTres\obj\Debug\net6.0\MultiploDeTres.csproj.AssemblyReference.cache
+C:\AluraDaniel01\Aprendendo CSharp\MultiploDeTres\obj\Debug\net6.0\MultiploDeTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraDaniel01\Aprendendo CSharp\MultiploDeTres\obj\Debug\net6.0\MultiploDeTres.AssemblyInfoInputs.cache
+C:\AluraDaniel01\Aprendendo CSharp\MultiploDeTres\obj\Debug\net6.0\MultiploDeTres.AssemblyInfo.cs
+C:\AluraDaniel01\Aprendendo CSharp\MultiploDeTres\obj\Debug\net6.0\MultiploDeTres.csproj.CoreCompileInputs.cache
+C:\AluraDaniel01\Aprendendo CSharp\MultiploDeTres\obj\Debug\net6.0\MultiploDeTres.dll
+C:\AluraDaniel01\Aprendendo CSharp\MultiploDeTres\obj\Debug\net6.0\ref\MultiploDeTres.dll
+C:\AluraDaniel01\Aprendendo CSharp\MultiploDeTres\obj\Debug\net6.0\MultiploDeTres.pdb
+C:\AluraDaniel01\Aprendendo CSharp\MultiploDeTres\obj\Debug\net6.0\MultiploDeTres.genruntimeconfig.cache
