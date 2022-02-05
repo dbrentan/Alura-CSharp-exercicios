@@ -1,0 +1,15 @@
+C:\AluraDaniel01\Aprendendo CSharp\UsandoSwitch\bin\Debug\net6.0\UsandoSwitch.exe
+C:\AluraDaniel01\Aprendendo CSharp\UsandoSwitch\bin\Debug\net6.0\UsandoSwitch.deps.json
+C:\AluraDaniel01\Aprendendo CSharp\UsandoSwitch\bin\Debug\net6.0\UsandoSwitch.runtimeconfig.json
+C:\AluraDaniel01\Aprendendo CSharp\UsandoSwitch\bin\Debug\net6.0\UsandoSwitch.dll
+C:\AluraDaniel01\Aprendendo CSharp\UsandoSwitch\bin\Debug\net6.0\ref\UsandoSwitch.dll
+C:\AluraDaniel01\Aprendendo CSharp\UsandoSwitch\bin\Debug\net6.0\UsandoSwitch.pdb
+C:\AluraDaniel01\Aprendendo CSharp\UsandoSwitch\obj\Debug\net6.0\UsandoSwitch.csproj.AssemblyReference.cache
+C:\AluraDaniel01\Aprendendo CSharp\UsandoSwitch\obj\Debug\net6.0\UsandoSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraDaniel01\Aprendendo CSharp\UsandoSwitch\obj\Debug\net6.0\UsandoSwitch.AssemblyInfoInputs.cache
+C:\AluraDaniel01\Aprendendo CSharp\UsandoSwitch\obj\Debug\net6.0\UsandoSwitch.AssemblyInfo.cs
+C:\AluraDaniel01\Aprendendo CSharp\UsandoSwitch\obj\Debug\net6.0\UsandoSwitch.csproj.CoreCompileInputs.cache
+C:\AluraDaniel01\Aprendendo CSharp\UsandoSwitch\obj\Debug\net6.0\UsandoSwitch.dll
+C:\AluraDaniel01\Aprendendo CSharp\UsandoSwitch\obj\Debug\net6.0\ref\UsandoSwitch.dll
+C:\AluraDaniel01\Aprendendo CSharp\UsandoSwitch\obj\Debug\net6.0\UsandoSwitch.pdb
+C:\AluraDaniel01\Aprendendo CSharp\UsandoSwitch\obj\Debug\net6.0\UsandoSwitch.genruntimeconfig.cache
