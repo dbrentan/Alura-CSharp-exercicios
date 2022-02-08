@@ -1,0 +1,15 @@
+C:\AluraDaniel01\Aprendendo CSharp POO\ByteBankParteDois\bin\Debug\net6.0\ByteBankParteDois.exe
+C:\AluraDaniel01\Aprendendo CSharp POO\ByteBankParteDois\bin\Debug\net6.0\ByteBankParteDois.deps.json
+C:\AluraDaniel01\Aprendendo CSharp POO\ByteBankParteDois\bin\Debug\net6.0\ByteBankParteDois.runtimeconfig.json
+C:\AluraDaniel01\Aprendendo CSharp POO\ByteBankParteDois\bin\Debug\net6.0\ByteBankParteDois.dll
+C:\AluraDaniel01\Aprendendo CSharp POO\ByteBankParteDois\bin\Debug\net6.0\ref\ByteBankParteDois.dll
+C:\AluraDaniel01\Aprendendo CSharp POO\ByteBankParteDois\bin\Debug\net6.0\ByteBankParteDois.pdb
+C:\AluraDaniel01\Aprendendo CSharp POO\ByteBankParteDois\obj\Debug\net6.0\ByteBankParteDois.csproj.AssemblyReference.cache
+C:\AluraDaniel01\Aprendendo CSharp POO\ByteBankParteDois\obj\Debug\net6.0\ByteBankParteDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraDaniel01\Aprendendo CSharp POO\ByteBankParteDois\obj\Debug\net6.0\ByteBankParteDois.AssemblyInfoInputs.cache
+C:\AluraDaniel01\Aprendendo CSharp POO\ByteBankParteDois\obj\Debug\net6.0\ByteBankParteDois.AssemblyInfo.cs
+C:\AluraDaniel01\Aprendendo CSharp POO\ByteBankParteDois\obj\Debug\net6.0\ByteBankParteDois.csproj.CoreCompileInputs.cache
+C:\AluraDaniel01\Aprendendo CSharp POO\ByteBankParteDois\obj\Debug\net6.0\ByteBankParteDois.dll
+C:\AluraDaniel01\Aprendendo CSharp POO\ByteBankParteDois\obj\Debug\net6.0\ref\ByteBankParteDois.dll
+C:\AluraDaniel01\Aprendendo CSharp POO\ByteBankParteDois\obj\Debug\net6.0\ByteBankParteDois.pdb
+C:\AluraDaniel01\Aprendendo CSharp POO\ByteBankParteDois\obj\Debug\net6.0\ByteBankParteDois.genruntimeconfig.cache
