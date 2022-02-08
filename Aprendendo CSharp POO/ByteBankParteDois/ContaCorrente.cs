@@ -11,15 +11,31 @@ namespace ByteBankParteDois
         {
             if (this.saldo < valor)
             {
+                Console.WriteLine($"Saldo insuficiente para saque no valor de {valor}");
                 return false;
             }
-            else
-            {
                 this.saldo -= valor;
                 return true;
-            }
         }
 
+        public void Depositar (double valor)
+        {
+            this.saldo += valor;
+        }
+
+        public bool Transferir (double valor, ContaCorrente contaDestino)
+        {
+            if (this.saldo < valor)
+            {
+                Console.WriteLine($"Saldo insuficiente para tranferencia no valor de {valor}");
+                return false;
+            }
+            
+            this.saldo -= valor;
+            contaDestino.Depositar(valor);
+
+            return true;
+        }
 
     }
 }
