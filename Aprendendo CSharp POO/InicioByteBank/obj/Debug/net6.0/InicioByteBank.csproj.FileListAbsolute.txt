@@ -1,0 +1,15 @@
+C:\AluraDaniel01\Aprendendo CSharp POO\InicioByteBank\bin\Debug\net6.0\InicioByteBank.exe
+C:\AluraDaniel01\Aprendendo CSharp POO\InicioByteBank\bin\Debug\net6.0\InicioByteBank.deps.json
+C:\AluraDaniel01\Aprendendo CSharp POO\InicioByteBank\bin\Debug\net6.0\InicioByteBank.runtimeconfig.json
+C:\AluraDaniel01\Aprendendo CSharp POO\InicioByteBank\bin\Debug\net6.0\InicioByteBank.dll
+C:\AluraDaniel01\Aprendendo CSharp POO\InicioByteBank\bin\Debug\net6.0\ref\InicioByteBank.dll
+C:\AluraDaniel01\Aprendendo CSharp POO\InicioByteBank\bin\Debug\net6.0\InicioByteBank.pdb
+C:\AluraDaniel01\Aprendendo CSharp POO\InicioByteBank\obj\Debug\net6.0\InicioByteBank.csproj.AssemblyReference.cache
+C:\AluraDaniel01\Aprendendo CSharp POO\InicioByteBank\obj\Debug\net6.0\InicioByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraDaniel01\Aprendendo CSharp POO\InicioByteBank\obj\Debug\net6.0\InicioByteBank.AssemblyInfoInputs.cache
+C:\AluraDaniel01\Aprendendo CSharp POO\InicioByteBank\obj\Debug\net6.0\InicioByteBank.AssemblyInfo.cs
+C:\AluraDaniel01\Aprendendo CSharp POO\InicioByteBank\obj\Debug\net6.0\InicioByteBank.csproj.CoreCompileInputs.cache
+C:\AluraDaniel01\Aprendendo CSharp POO\InicioByteBank\obj\Debug\net6.0\InicioByteBank.dll
+C:\AluraDaniel01\Aprendendo CSharp POO\InicioByteBank\obj\Debug\net6.0\ref\InicioByteBank.dll
+C:\AluraDaniel01\Aprendendo CSharp POO\InicioByteBank\obj\Debug\net6.0\InicioByteBank.pdb
+C:\AluraDaniel01\Aprendendo CSharp POO\InicioByteBank\obj\Debug\net6.0\InicioByteBank.genruntimeconfig.cache
