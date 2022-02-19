@@ -1,4 +1,5 @@
 ﻿using System;
+using ByteBankParteDois.src.Entities;
 
 namespace ByteBankParteDois
 {

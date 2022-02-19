@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InicioByteBank", "InicioByt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBankParteDois", "ByteBankParteDois\ByteBankParteDois.csproj", "{1D536CF9-42F0-42B0-9B97-8CF5DC7C1832}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBankParteTres", "ByteBankParteTres\ByteBankParteTres.csproj", "{5E0491F8-AE74-40F7-84DB-82F74B87AF8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBankParteQuatro", "ByteBankParteQuatro\ByteBankParteQuatro.csproj", "{DEDAD115-94DD-4C5A-9C81-8428C96F5526}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{1D536CF9-42F0-42B0-9B97-8CF5DC7C1832}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D536CF9-42F0-42B0-9B97-8CF5DC7C1832}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D536CF9-42F0-42B0-9B97-8CF5DC7C1832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E0491F8-AE74-40F7-84DB-82F74B87AF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0491F8-AE74-40F7-84DB-82F74B87AF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0491F8-AE74-40F7-84DB-82F74B87AF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0491F8-AE74-40F7-84DB-82F74B87AF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDAD115-94DD-4C5A-9C81-8428C96F5526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDAD115-94DD-4C5A-9C81-8428C96F5526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDAD115-94DD-4C5A-9C81-8428C96F5526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDAD115-94DD-4C5A-9C81-8428C96F5526}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

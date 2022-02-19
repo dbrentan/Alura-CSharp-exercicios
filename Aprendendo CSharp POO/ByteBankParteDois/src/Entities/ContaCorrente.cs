@@ -1,4 +1,4 @@
-namespace ByteBankParteDois
+namespace ByteBankParteDois.src.Entities
 {
     public class ContaCorrente
     {
