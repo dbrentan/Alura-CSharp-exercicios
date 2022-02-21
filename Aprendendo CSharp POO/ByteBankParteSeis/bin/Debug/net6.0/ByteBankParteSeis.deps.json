@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ByteBankParteSeis/1.0.0": {
+        "runtime": {
+          "ByteBankParteSeis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ByteBankParteSeis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
